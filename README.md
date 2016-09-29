@@ -19,3 +19,6 @@ CREATE TABLE PLAYER(
 );
 
 **_Notes_**: When you unzip the project, the file derbyclient.jar may be lost. Without that file, the program can not run. Therefore, if NetBeans shows error that derbyclient can not be found, you should download the derbyclient.jar that be shared on drive and link it to the project.
+
+### 1-minute Game Play video
+https://www.youtube.com/watch?v=8FrrTFFbMdg
