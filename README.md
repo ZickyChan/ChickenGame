@@ -22,7 +22,8 @@ CREATE TABLE PLAYER(
 
 ### Game rules
 * The game is endless as there is no levels. The player plays until losing. And that is when he or she has lost all the given lives. 
-* To play the game, the player has to move the basket place at the bottom of the Main Screen so that he/she can catch the falling eggs. * A golden egg gives the player 20 points and a normal one gives only 10.  
+* To play the game, the player has to move the basket place at the bottom of the Main Screen so that he/she can catch the falling eggs.
+* A golden egg gives the player 20 points and a normal one gives only 10.  
 * However, if the player misses an egg or accidentally catches a poop, he/she will lose a life.
 * A chicken product is considered as being caught or going inside the basket only when it drops in the middle of the basket. If it made contact with the edge, the product will automatically bounce out.
 
